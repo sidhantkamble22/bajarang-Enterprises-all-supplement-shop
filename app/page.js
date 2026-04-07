@@ -53,7 +53,7 @@ export default function Home() {
   };
 
   const handleBuy = (product) => {
-    const phone = "8265022599";
+    const phone = "9960366907";
     const msg = `Hi, I want to buy ${product}`;
     const url = `https://wa.me/${phone}?text=${encodeURIComponent(msg)}`;
     window.open(url, "_blank");
