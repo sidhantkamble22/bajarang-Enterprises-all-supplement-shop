@@ -8,7 +8,7 @@ export default function gainer() {
     {
       name: "MuscleBlaze Biozyme Performance Whey",
       
-      img: "/protine/mbprotine .jpg",
+      img: "/protine/mbprotine.jpg",
     },
     {
       name: "GNC Pro performence 100% whey",
